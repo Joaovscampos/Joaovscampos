@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Vitor Campos</h1>
+<h1 align="center">Welcome 👋, I'm João Vitor Campos</h1>
 
 <a href="https://github.com/Joaovscampos/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
@@ -7,15 +7,17 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-- 🌎 I'm **Brazilian.**
+- 🌍 I'm **Brazilian**
 
-- I am a **QA Jr.**
+- 🏙️ Living **Recife/PE**
 
-- 🔭 I currently work with manual and automated functional tests.
+- I am a **QA**
 
-- 🌱 Tools I know **Cypress | Selenium | Robot  | Postman**
+- 👨‍💻 I currently work with planning and executing manual and automatic tests in government projects
 
-- 💡 I try to collaborate on new ideas.
+- 🌱 Tools I know **Cypress | Selenium | Robot | Postman | Git**
+
+- 💡 I value teamwork and everyone's collaboration for a healthy and effective environment
 
 
 **Languages:**  
@@ -23,6 +25,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"></code>
 <br/>
 <div>
