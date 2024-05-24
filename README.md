@@ -25,7 +25,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/java-icon.png"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"></code>
 <br/>
 <div>
