@@ -11,7 +11,7 @@
 
 - 🏙️ Living **Recife/PE**
 
-- I am a **QA**
+- 🙋‍♂️ I am a **QA**
 
 - 👨‍💻 I currently work with planning and executing manual and automatic tests in government projects
 
