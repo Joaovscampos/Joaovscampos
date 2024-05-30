@@ -3,7 +3,7 @@
 <a href="https://github.com/Joaovscampos/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
-<a href="https://www.linkedin.com/in/Joaovscampos/">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-campos-372a92236/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
