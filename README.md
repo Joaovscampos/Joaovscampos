@@ -9,11 +9,11 @@
 
 - 🌍 I'm **Brazilian**
 
-- 🏙️ Living **Recife/PE**
+- 🏙️ Living in **Recife/PE**
 
 - 🙋‍♂️ I am a **QA**
 
-- 👨‍💻 I currently work with planning and executing manual and automatic tests in government projects
+- 👨‍💻 I currently work with planning and executing manual and automatic tests in a government project
 
 - 🌱 Tools I know **Cypress | Selenium | Robot | Postman | Git**
 
