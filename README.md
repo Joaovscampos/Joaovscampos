@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ I am a **QA**
 
-- 👨‍💻 I currently work with planning and executing manual and automatic tests in a government project
+- 👨‍💻 I currently work with planning and executing manual and automatic tests 
 
 - 🌱 Tools I know **Cypress | Selenium | Robot | Postman | Git**
 
